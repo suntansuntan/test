@@ -66,6 +66,9 @@ header {
     margin: 0 auto;
 
 }
+pai {
+    transform: rotate( -90deg );
+}
 .syasin-nakami {
     position: relative;
     width: 100%;
